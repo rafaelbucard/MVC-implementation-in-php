@@ -1,11 +1,11 @@
 <html>
 <head>
-    <title>MEU CRUD</title>
+    <title>Cadastro de contato CRUD</title>
     <link rel="stylesheet" href="<?=$base?>/assets/css/style.css" >
 </head>
 <body>
     <head>
-    <h1>CRUD em MVC</h1>
+    <h1>CRUD em MVC (Cadastro e-mail) </h1>
     <hr/>
     </head>
 
