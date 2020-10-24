@@ -4,7 +4,7 @@
 
 
  Clone do Site Netflix criado com React, toda imagens e informaçoes sobre os filmes foram extraidas da API do The Movie Database.  
-Documentação da API:  https://www.themoviedb.org/documentation/api?language=pt-BR
+ 
  **(O Objetivo do Projeto é demonstrar habilidades com a linguagem PHP , integração com banco de dados MySQL e gerenciador de dependencias Composer)**
 # Ferramentas:
 * PHP 7
