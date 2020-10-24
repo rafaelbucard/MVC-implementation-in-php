@@ -33,7 +33,7 @@ Sistema simples feito em PHP7 respeitando a PSR e a documentação da linguagem 
 
 ![alt text](https://github.com/rafaelbucard/CRUD-MVC/blob/master/mvc-master/editar.png)
 
-# Update - 	UPDATE
+# Delete - 	DELETE
 
 ![alt text](https://github.com/rafaelbucard/CRUD-MVC/blob/master/mvc-master/delete.png)
 
