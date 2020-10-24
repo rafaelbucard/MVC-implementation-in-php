@@ -4,7 +4,7 @@
 
 Sistema simples feito em PHP7 respeitando a PSR e a documentação da linguagem .  
  
- **(O Objetivo do Projeto é demonstrar habilidades com a linguagem PHP , integração com banco de dados MySQL e gerenciador de dependencias Composer)**
+ **(O Objetivo do Projeto é demonstrar habilidades com a linguagem PHP , integração com banco de dados MySQL e gerenciador de dependências Composer)**
 # Ferramentas:
 * PHP 7
 * MySQL
