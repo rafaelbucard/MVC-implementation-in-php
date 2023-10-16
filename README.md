@@ -1,12 +1,12 @@
-# CRUD feito Com a arquitetura MVC. (Cadastro de contatos) :email:
+# Sistema feito com a arquitetura MVC utilizando PHP
 :elephant: 
 :purple_heart:
 
 
 
-Sistema simples feito em PHP7 respeitando a PSR e a documentação da linguagem .  
+Sistema simples feito em PHP7 respeitando a PSR.  
  
- **(O Objetivo do Projeto não é com a parte visual, e sim o BACKEND, demonstrar habilidades com a linguagem PHP, integração com banco de dados MySQL e gerenciador de dependências Composer dentro de uma estrutura MVC. )**
+ **(O Objetivo do Projeto não é com a parte visual, e sim o BACKEND, demonstrar a possibilidade e facilidade de se trabalhar com PHP na aquiterura excelente para a web (MVC). Sistema integrado com banco de dados MySQL e gerenciador de dependências Composer. )**
 # Ferramentas:
 * PHP 7
 * MySQL
